@@ -15,4 +15,5 @@ credits: true
 This collection has a history. This is a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/).
 
 Here is an example of an audio clip from this collection:
-{% include feature/audio.html objectid="good_news_06" %}
+
+{% include feature/audio.html objectid="psychiana004" width="50" %}
