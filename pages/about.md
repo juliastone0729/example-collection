@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection" %}
-
 ## About the Collection
 
 This collection focuses on Psychiana a New Thought denomination created in 1928 in Moscow, Idaho. The collection site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
