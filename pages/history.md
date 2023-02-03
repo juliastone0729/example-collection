@@ -55,11 +55,11 @@ This collection has a history. I am practicing how to use **Markdown**. _This te
 
 ### External image (no caption)
 
-{% include feature/image-external.html src="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_f7_miscellanious_negatives_010.jpg" width="75" alt="Copies of the June 1948 edition of the The Way: A Quarterly Publication of the Psychiana Religion." %}
+{% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_f7_miscellanious_negatives_010.jpg" width="75" alt="Copies of the June 1948 edition of the The Way: A Quarterly Publication of the Psychiana Religion" %}
 
 ### External image (w/caption and a link)
 
-{% include feature/image-external.html src="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_psychiana_photographs_001.jpg" width="75" caption="Photograph of Corner Drug Store in Moscow, ID" link="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_psychiana_photographs_001.jpg" alt="Corner drug store" %}
+{% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_psychiana_photographs_001.jpg" width="75" caption="Photograph of Corner Drug Store in Moscow, ID" link="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_psychiana_photographs_001.jpg" %}
 
 ## Documents
 
