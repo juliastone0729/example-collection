@@ -17,3 +17,9 @@ This collection has a history. This is a project to create a free and simple dig
 Here is an example of an audio clip from this collection:
 
 {% include feature/audio.html objectid="psychiana004" width="50" %}
+
+## Images
+
+### Image example
+
+{% include feature/image.html objectid="psychiana027" width="75" %}
