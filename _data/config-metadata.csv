@@ -7,7 +7,6 @@ subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
-source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
