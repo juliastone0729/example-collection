@@ -7,7 +7,7 @@ subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
-findingaid,Finding Aid,,external_link
+findingaid,Finding Aid,,true
 identifier,Source Identifier,,
 type,Type,
 format,Format,
